@@ -1,0 +1,36 @@
+title: Nilgoun Bahar, PhD SLP
+description: >-
+  Postdoctoral fellow and paediatric speech-language pathologist at the
+  Dyslexia Center at UCSF. Researching the neural and cognitive mechanisms
+  underlying language-based learning disorders.
+author: Nilgoun Bahar
+
+# GitHub Pages will serve this at the repo root if this is a user/org page
+# (username.github.io), or update baseurl below if it's a project page.
+baseurl: ""
+url: ""
+
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+nav:
+  - title: About
+    url: /
+  - title: Teaching & Mentorship
+    url: /teaching/
+  - title: Publications
+    url: /publications/
+  - title: Contact
+    url: /contact/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - "Nilgoun Bahar.docx"
+  - vendor
+  - node_modules
+  - README.md

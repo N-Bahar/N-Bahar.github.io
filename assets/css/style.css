@@ -1,0 +1,115 @@
+:root {
+  --text: #22262b;
+  --muted: #5b6570;
+  --accent: #7a4a3a;
+  --border: #e6e2dc;
+  --bg: #fdfcfa;
+  --max-width: 720px;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Georgia, "Iowan Old Style", serif;
+  line-height: 1.65;
+  font-size: 18px;
+}
+
+.wrap {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+a:hover { text-decoration: underline; }
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 1.5rem 0;
+}
+.site-header .wrap {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem 1.5rem;
+}
+.site-title {
+  font-weight: 700;
+  font-size: 1.15rem;
+  color: var(--text);
+}
+.site-title:hover { text-decoration: none; }
+
+.site-nav a {
+  margin-left: 1.25rem;
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+.site-nav a:first-child { margin-left: 0; }
+.site-nav a.active,
+.site-nav a:hover {
+  color: var(--accent);
+}
+
+main.wrap {
+  padding-top: 2.5rem;
+  padding-bottom: 4rem;
+}
+
+h1, h2, h3 {
+  line-height: 1.3;
+  font-weight: 700;
+}
+h1 { font-size: 1.9rem; margin-bottom: 0.25rem; }
+h2 { font-size: 1.3rem; margin-top: 2.5rem; }
+h3 { font-size: 1.05rem; margin-top: 1.5rem; }
+
+.subtitle {
+  color: var(--muted);
+  font-size: 1.05rem;
+  margin-top: 0;
+  margin-bottom: 1.75rem;
+}
+
+.byline {
+  color: var(--muted);
+  font-style: italic;
+  margin: 0 0 1.5rem;
+}
+
+ul, ol { padding-left: 1.25rem; }
+li { margin-bottom: 0.4rem; }
+
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+}
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 1.5rem 0;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.todo {
+  display: inline-block;
+  background: #fff3cd;
+  color: #7a5b00;
+  border: 1px solid #f0d78c;
+  border-radius: 4px;
+  padding: 0.1rem 0.5rem;
+  font-size: 0.8rem;
+  font-style: normal;
+}
