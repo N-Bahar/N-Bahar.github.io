@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Publications
-permalink: /publications/
+title: CV
+permalink: /cv/
 ---
 
-# Publications
+# CV
 
-<p class="todo">TODO: add full citations and links</p>
+<p class="todo">TODO: add full CV content</p>
 
-The source material didn't include formatted citations, so this page is a placeholder — drop in your publication list (e.g. exported from Google Scholar or your CV) and it'll render here. A few papers referenced in the About page that likely belong here:
+The source material didn't include a formatted CV, so this page is a placeholder — drop in your education, positions, publications, and other CV sections and they'll render here. A few papers referenced in the About page that likely belong in a publications section:
 
 - Cortical surface area and language ability in developmental language disorder (DLD) — *Neurobiology of Language*
 - Frontostriatal circuitries and novel word-form learning in DLD (fMRI)

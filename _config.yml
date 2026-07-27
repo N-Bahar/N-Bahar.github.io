@@ -18,12 +18,16 @@ plugins:
   - jekyll-seo-tag
 
 nav:
-  - title: About
+  - title: Home
     url: /
+  - title: About
+    url: /about/
+  - title: Research
+    url: /research/
   - title: Teaching & Mentorship
     url: /teaching/
-  - title: Publications
-    url: /publications/
+  - title: CV
+    url: /cv/
   - title: Contact
     url: /contact/
 
