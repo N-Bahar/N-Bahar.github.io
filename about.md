@@ -19,5 +19,3 @@ I also have a soft spot for speech motor control. During the pandemic, I co-auth
 When not working, I dance Argentine tango. It's not so different from language development. You begin by learning the building blocks, the individual steps, much like babbling speech sounds. Those combine into familiar movement patterns, just as sounds combine into words, until eventually you're able to string them together into longer, fluid sequences. With enough practice (and far longer than it takes children to learn language), technique fades into the background, opening room for subtlety and a chance to converse with another person on the dance floor.
 
 Naturally, my tango obsession comes with the culture attached; I bake alfajores when I'm craving something sweet and spend most evenings sipping on yerba mate.
-
-My undergraduate thesis explored how Terrence Malick (my favourite filmmaker) uses voice-over narration to convey meaning beyond imagery. For my Spanish final project, I compared three Farsi translations of Federico García Lorca's *La casa de Bernarda Alba*, showing how moving words between languages can act as a political tool to reshape ideas.
