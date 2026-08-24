@@ -29,6 +29,6 @@ I'm fascinated by how children learn to speak and read, and by how the developin
 
 ## Let's connect
 
-<p class="contact-alt">Reach me directly at <a href="mailto:Nilgoun.Bahar@ucsf.edu">Nilgoun.Bahar@ucsf.edu</a>.</p>
+<p class="contact-alt">Contact me via email: <a href="mailto:Nilgoun.Bahar@ucsf.edu">Nilgoun.Bahar@ucsf.edu</a></p>
   </div>
 </div>
