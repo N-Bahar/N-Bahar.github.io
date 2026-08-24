@@ -126,57 +126,6 @@ hr {
   font-style: normal;
 }
 
-.contact-form {
-  display: flex;
-  flex-direction: column;
-  max-width: 480px;
-  margin-top: 0.5rem;
-}
-
-.contact-form label {
-  font-size: 0.9rem;
-  color: var(--muted);
-  margin-top: 1.1rem;
-  margin-bottom: 0.35rem;
-}
-
-.contact-form input,
-.contact-form textarea {
-  font: inherit;
-  font-size: 1rem;
-  color: var(--text);
-  background: #fff;
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  padding: 0.6rem 0.75rem;
-  resize: vertical;
-}
-
-.contact-form input:focus,
-.contact-form textarea:focus {
-  outline: none;
-  border-color: var(--accent);
-}
-
-.contact-form button {
-  align-self: flex-start;
-  margin-top: 1.5rem;
-  font: inherit;
-  font-size: 0.95rem;
-  font-weight: 700;
-  color: #fff;
-  background: var(--accent);
-  border: none;
-  border-radius: 6px;
-  padding: 0.65rem 1.5rem;
-  cursor: pointer;
-  transition: opacity 0.15s ease;
-}
-
-.contact-form button:hover {
-  opacity: 0.9;
-}
-
 .contact-alt {
   color: var(--muted);
   font-size: 0.95rem;

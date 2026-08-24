@@ -29,19 +29,6 @@ I'm fascinated by how children learn to speak and read, and by how the developin
 
 ## Let's connect
 
-<p class="contact-alt">Reach me directly at <a href="mailto:Nilgoun.Bahar@ucsf.edu">Nilgoun.Bahar@ucsf.edu</a>, or send a message below.</p>
-
-<form class="contact-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
-  <label for="name">Name</label>
-  <input type="text" id="name" name="name" required>
-
-  <label for="email">Your email</label>
-  <input type="email" id="email" name="_replyto" required>
-
-  <label for="message">Message</label>
-  <textarea id="message" name="message" rows="6" required></textarea>
-
-  <button type="submit">Send message</button>
-</form>
+<p class="contact-alt">Reach me directly at <a href="mailto:Nilgoun.Bahar@ucsf.edu">Nilgoun.Bahar@ucsf.edu</a>.</p>
   </div>
 </div>
