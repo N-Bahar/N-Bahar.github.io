@@ -26,6 +26,7 @@ I've given lectures to students, researchers, and clinical audiences at a number
 - **The Neurobiology of Developmental Language Disorder** — Language & Literacy Lab (Dr. Ioulia Kovelman), University of Michigan (2026)
 - **Dyslexia and ADHD in Children: Neurocognitive Mechanisms of Co-occurrence** — Gabrieli Lab (Dr. John Gabrieli), MIT (2025)
 - **Understanding Developmental Language Disorder: Brain & Behaviour** — Paediatric Neuropsychology Course, University College London (2025)
+- **Researcher Insights from a Large-Scale Neuroimaging Study of DLD** — DLD Clinician & Research Knowledge Exchange, Royal Holloway University, Surrey, England (2024)
 - **Understanding Developmental Language Disorder: Brain & Behaviour** — Sussex Speech and Language Consortium (2024)
 - **Developmental Language Disorder: From Biology to Clinical Practice** — Royal College of Speech and Language Therapists Clinical Excellence Network (2023)
 - **An Introduction to Conducting Systematic Reviews** — M.S. Speech-Language Pathology Program, New York University (2022)

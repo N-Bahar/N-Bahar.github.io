@@ -22,14 +22,16 @@ nav:
     url: /
   - title: About
     url: /about/
-  - title: Research
-    url: /research/
+  - title: Publications
+    url: /publications/
   - title: Teaching & Mentorship
     url: /teaching/
-  - title: CV
-    url: /cv/
-  - title: Contact
-    url: /contact/
+  - title: Grants & Awards
+    url: /awards/
+  - title: Peer Reviews
+    url: /peer-reviews/
+  - title: Conference Contributions
+    url: /conference-contributions/
 
 exclude:
   - Gemfile
