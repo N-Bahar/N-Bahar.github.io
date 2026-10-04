@@ -178,6 +178,19 @@ hr {
   margin: 0.75rem 0 1.25rem;
 }
 
+.tango-photo {
+  float: right;
+  width: 300px;
+  max-width: 45%;
+  height: auto;
+  border-radius: 12px;
+  margin: 0 0 1rem 1.5rem;
+}
+
+@media (max-width: 600px) {
+  .tango-photo { float: none; width: 100%; max-width: 100%; margin: 0 0 1rem; }
+}
+
 .cv-download {
   display: block;
   font-weight: 700;
