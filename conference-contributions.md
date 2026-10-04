@@ -6,6 +6,8 @@ permalink: /conference-contributions/
 
 # Conference Contributions
 
+- **Bahar, N.** (2026, October). *Longitudinal changes in caudate nucleus myelination in developmental language disorder* [Poster presentation]. Society for the Neurobiology of Language, Geneva, Switzerland.
+- **Bahar, N.** (2026, September). *Neuroanatomical differences across different cognitive profiles in developmental dyslexia* [Poster presentation]. Society for the Neurobiology of Language, Geneva, Switzerland.
 - **Bahar, N.** (2025, September). *Developmental dyslexia and attention-deficit/hyperactivity disorder in children: Cognitive and neuroanatomical mechanisms of co-occurrence* [Poster presentation]. Society for the Neurobiology of Language, Washington, DC, USA.
 - **Bahar, N.** (2025, September). *Longitudinal changes in cortical grey matter in adolescents with developmental language disorder* [Poster presentation]. Society for the Neurobiology of Language, Washington, DC, USA.
 - **Bahar, N.** (2024, June). *An investigation of reward processing during word learning in neurotypical and dyslexic children* [Symposium presentation]. British Dyslexia Association, Surrey, England.
